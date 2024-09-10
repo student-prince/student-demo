@@ -1,4 +1,4 @@
 # student-demo
 this is my girst git repositary
 <BR>
-author-prince kumar
+author-prince kumar(college)
